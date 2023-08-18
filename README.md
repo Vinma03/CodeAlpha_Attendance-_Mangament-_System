@@ -1,2 +1,2 @@
-# CodeAlpha_Attendance-_Mangament-_System   
+# CodeAlpha_Attendance-_Management-_System   
 #java intern
